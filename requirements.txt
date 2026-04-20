@@ -1,0 +1,8 @@
+# Python 3.12+ talab qilinadi
+# Django 5.x yoki 6.x+ bilan ishlaydi
+
+django>=5.2
+djangorestframework>=3.14
+django-cors-headers>=4.0
+pytest>=7.0
+pytest-django>=4.5
